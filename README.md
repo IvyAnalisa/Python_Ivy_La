@@ -1,8 +1,6 @@
 # Python_Advanced_Course 2024
 # Projects in this course has been completed by assigments in every week which my teacher gave me.
-Certainly! Here’s a sample README file for the simulation project you’ve worked on. It includes sections about the project, how to set it up, and how to run it, along with a brief explanation of the main features.
 
----
 
 # **Pandemic Simulation Project** (from uppgift 3,4,5)
 
